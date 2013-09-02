@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 !  FILTROS NAUSCOPICOS by maty (Spanish+English+Others ad-blocking subscription)
-!    Last modified: Jul 07, 2013 17:35 UTC
+!    Last modified: Set 02, 2013 16:40 UTC
 !    This list expires after 5 days
 !    add the Nauscopio filter for even more: http://nauscopio.wordpress.com/category/filtrado/
 !    License: http://creativecommons.org/licenses/by-nc-sa/3.0/es/
@@ -171,6 +171,7 @@ xcounter
 ||15encasa.com/widget/la-razon/ban-
 ||17kkmh.com/scriptAD/
 ||194.117.213.*/mind012/
+||195.82.146.52/top-2/
 ||1and1affiliate.com/*/*/*_120x600
 ||1ms.net/css/skinbg
 ||1phads.com/
@@ -233,6 +234,7 @@ xcounter
 ||ad.au.doubleclick.net/pfadx/
 ||ad.be.doubleclick.net/ad/
 ||ad.ca.doubleclick.net^
+||ad.co-co-co.co/
 ||ad.cooks.com^
 ||ad.de.doubleclick.net/*/adj/iqdfaz/
 ||ad.de.doubleclick.net/adj/hcfhb
@@ -258,6 +260,7 @@ xcounter
 ||ad.laregion.net/
 ||ad.lemde.fr/
 ||ad.linksynergy.com/
+||ad.log.kukuplay.com/
 ||ad.lyricswire.com^
 ||ad.mail.ru/
 ||ad.mangareader.net^
@@ -278,6 +281,7 @@ xcounter
 ||ad.viewablemedia.net^
 ||ad.vozpopuli.com/
 ||ad.wsodcdn.com/
+||ad.z5x.net/
 ||ad.za.doubleclick.net/ad/
 ||ad4.live.liverail.com/
 ||ad4game.com/
@@ -309,6 +313,7 @@ xcounter
 ||adimgs.sapo.pt/
 ||adinterax.com/
 ||adital.com.br/anuncios/
+||adjal.com/
 ||adjuggler.com/banners/
 ||adlemons.*/
 ||adlink.net/
@@ -326,6 +331,8 @@ xcounter
 ||adnxs.com/
 ||adocean.pl/
 ||adooza.com/adserver/www/delivery/al.php?
+||adorika.com/
+||adorika.net/
 ||adprs.net/
 ||ads.abovetopsecret.com^
 ||ads.adap.tv/
@@ -424,6 +431,7 @@ xcounter
 ||adsmarket.com/
 ||adsonar.com/
 ||adspirit.de/
+||ad-sys.com/
 ||adtech.*/
 ||ad-traffic.*/
 ||adv*.*.*/
@@ -738,6 +746,7 @@ xcounter
 ||cpaffiliates.net^
 ||cpalead.com/
 ||cpalock.com/
+||cpmrocket.com/
 ||cpxinteractive.com^
 ||criteo.com/delivery/
 ||criteriaclub.com/publi/
@@ -839,6 +848,8 @@ xcounter
 ||distrowatch.com/*/kokoku/
 ||dlelatino.com/728x90
 ||dlqm.net/
+||dlvr.readserver.net/$popup
+||dlvr.readserver.net/imp.php$domain=pordescargadirecta.com
 ||doctorproaudio.com/bander
 ||domisfera.com/*/patrocinadores/
 ||donorschoose.org/
@@ -1039,6 +1050,7 @@ xcounter
 ||expressindia.com/banner/
 ||extraconfidencial.com/*/patrocinio
 ||extraconfidencial.com/*/publi/
+||exvagos.com/descargando
 ||eyewonder.com^
 ||facilisimo.com/images/
 ||factortg.com^
@@ -1475,6 +1487,7 @@ xcounter
 ||mediaplex.com/ad/
 ||media-tics.com/anuncios/
 ||medleyads.com/
+||meendocash.com/brview.php
 ||meetlocals.com/*/*banner
 ||megaadserver.com/
 ||megamanuales.es/*/Banner
@@ -1497,6 +1510,7 @@ xcounter
 ||metric*.*.*/
 ||mfr.a2dfp.net/*/*/
 ||mg.co.za/*/ads/
+||mg.dt00.net/
 ||miamidiario.com/servicios/adserver_
 ||miapuesta.com/*/*/newsletter/
 ||miarevista.es/*/*/promo/
@@ -1658,6 +1672,7 @@ xcounter
 ||parrillaweb.es/publicidad
 ||partal.cat/adif/
 ||partal.cat/rss_classificats/
+||parts-express.com/graphics/*/*_banner
 ||passesgratis.eshost.com.ar/automatic_1.htm
 ||patatabrava.com/*/pb
 ||patatabrava.com/*/pub
@@ -1930,7 +1945,6 @@ xcounter
 ||slashgear.com/ads/
 ||slobodnadalmacija.hr/baner/
 ||smartadserver.com/*/pubjall/
-||smartadserver.com/call/pubj/
 ||smarttargetting.co^
 ||sms-xvideos.com/download/
 ||softpedia-static.com/*/ads/
@@ -2134,6 +2148,7 @@ xcounter
 ||widget.randstad.com/jobfinder/
 ||wiisos.com/*/ads/
 ||wiisos.com/images/banners/
+||williamhill.com/promo
 ||wired.com/images/*/*/*/*webAd
 ||wolframcdn.com/images/ads/
 ||woopra.com/js/woopra.js
@@ -2232,6 +2247,7 @@ https://*.*/openx/
 123.cl/entel123/images/disclaimer/proveedor-de-noticias.gif
 123people.es##TD.cb_navigation_ad
 1ms.net##IMG[width="728"][height="90"]
+20minutos.es###cookies-policy
 20minutos.es##.ad-wrapper
 20minutos.es##.adx.a100
 20minutos.es##.astrocanal_publi
@@ -2329,6 +2345,7 @@ america.infobae.com##.banner
 americaeconomica.com##IMG[width="240"]
 americaeconomica.com##TD[height="114"]
 anandtech.com###topmarq
+andrew-robinson-online.com##[style="max-width: 300px;max-height: 50px;"]
 animeflv.net###cboxOverlay
 animeflv.net###publi
 animeflv.net##.a300x250
@@ -2344,6 +2361,7 @@ antena3.com##.advertise
 antena3.com##.mod_roba
 antena3.com##.mod_tienda
 antena3.com##.publiRoba
+antena3.com##[class="mod_ad_top"]
 antena3noticias.com##[class^="adContainer"]
 antiscreeners.com###headpropa3
 anuncios.ebay.es##[class$="banner"]
@@ -2413,7 +2431,6 @@ audiocircle.com##TD[style="width:168px;"]
 audioholics.com###vbseo_vhtml_0
 audioholics.com##[style$="height:90px;"]
 audioholics.com##TD#portal-column-one
-audioholics.com##TD:first-child
 audio-ideas.com###headerAdRight
 audio-ideas.com###headerBanner
 audiomedia.com##.Ad300X250
@@ -2483,6 +2500,7 @@ bandaancha.eu###robapaginas_300x250
 barrapunto.com##[style="text-align: center;"]
 bazsex.com###overlay
 bbc.co.uk##[id^="bbccom"]
+bbc.co.uk##[id="bbccookies"]
 behance.net###adSky
 behance.net##[class="sponsor-ad first-ad"]
 berria.info##.kutxa.azken
@@ -2692,6 +2710,7 @@ cruceros.edreams.es##A[href^="http://adclick.g.doubleclick.net"]
 cruceros.edreams.es##A[href^="http://googleads.g.doubleclick.net/"]
 crunchnotes.com##TD
 ctpost.com##.row1.clearfix
+cuantarazon.com##DIV[style^="width:300px;height:250px;"]
 cuartopoder.es##TD[bgcolor="#cccccc"]
 cuatro.com##.ad-wrap
 cuevana.tv##[class^="banner"]
@@ -2711,6 +2730,9 @@ customize.org##[style^="text-align:center; padding:0px 0px 20px 0px;"]
 cuwhois.com##TD.Estilo15
 cuwhois.com##TD[height="20"]
 d.startpagea.com###afterdownloadwidget
+dagogo.com###lbx_fade
+dagogo.com###lbx_light
+dagogo.com##.singlepostads
 dailyexpress.co.uk##.advert
 dailymail.co.uk##.mpu.adHolder
 dailymail.co.uk##[class*="advertorials"]
@@ -2832,6 +2854,7 @@ divxonline.info###ddbar
 divxtotal.com##.vbanner
 diyaudio.com##IMG[height="7"][width="728"]
 diyaudio.com##TABLE.tborder[style="margin-bottom: 15px;"]
+dlvr.readserver.net##IMG[width="728"][height="90"]
 dnssearch.jazztel.com##.content_links
 dnssearch.jazztel.com##.sponsored_links
 dooyoo.co.uk###banner2
@@ -2851,6 +2874,8 @@ dzoom.org.es##.dz-pub-btn-left
 dzoom.org.es##.dz-pub-btn-right
 earthtechling.com##[id^="ad"]
 ebay.de##.c-adsense-pic
+ebay.es###gh-d
+ebay.es###gh-hsi
 ecodiario.eleconomista.es###banner1
 econmatters.com##.af-header
 econmatters.com##IMG[width="120"][height="600"]
@@ -2906,6 +2931,7 @@ elconfidencial.com###banner
 elconfidencial.com##[id^="publi"]
 elconfidencialdigital.com##.Banner
 elconfidencialdigital.com##[class*="_publi-"]
+elconfidencialdigital.com##[class*="banner"]
 elconfidencialdigital.com##[class^="adLabel-"]
 elconfidencialdigital.com##[class^="Banner"]
 elconfidencialdigital.com##[class^="gadgetBloqueEnlacePatrocinado"]
@@ -2981,6 +3007,7 @@ elmundo.com.ve##.fondo_publicitario
 elmundo.com.ve##[style="width:972px; height:90px;"]
 elmundo.es###carrusel_elmundoes
 elmundo.es###modulo_buscador_sv
+elmundo.es###privacyPolicyLayer
 elmundo.es###shop_serv_container
 elmundo.es##.contenido.promociones
 elmundo.es##.escaparate
@@ -3026,6 +3053,7 @@ elperiodico.com##.advertisement
 elperiodico.com##.enlacesrecomen
 elperiodico.com##.modcol.comp
 elperiodico.com##.promohead
+elperiodico.com##.wrap
 elperiodico.com##[class*="c25"]
 elperiodico.com##[flashvars*="advertisement"]
 elperiodico.com##[id^="adv"]
@@ -3176,6 +3204,7 @@ europapress.es##.patrocinio
 europapress.es##.publi
 europapress.es##[class^="banner"]
 europapress.es##[id^="cabecera_desayunos_"]
+europapress.es##[id="cookiesdirective"]
 europapress.es##IMG.sprt_imgm60
 europapress.es##IMG[id^="patrocinadores"]
 europapress.es##IMG[id^="sprtm"]
@@ -3195,6 +3224,7 @@ extraconfidencial.com##TABLE[width="990"][bgcolor="#ffffff"]:first-child TR
 extreme.pcgameshardware.de###plakatfullsize
 exvagos.ch##[id^="floatdiv"]
 exvagos.ch##CENTER
+exvagos.com##IMG[width="728"][height="90"]
 exvagos.es##[id^="floatdiv"]
 exvagos.es##CENTER
 facebook.com###pagelet_side_ads
@@ -3275,6 +3305,7 @@ foro.noticias3d.com##IMG[width="728"][height="90"]
 forocoches.com###adl_728x90
 forocoches.com##SPAN[style$="width: 301px; height: 251px;"]
 forocoches.com##TABLE#AutoNumber31
+forocoches.com##TABLE.cajasprin[bgcolor="#F0F5F9"]
 forocoches.com##TABLE[width="728"]
 forodvd.com##[id^="ad_"]
 forodvd.com##[style^="width:984px;"]
@@ -3420,7 +3451,9 @@ heraldo.es##.caj_op
 heraldo.es##.inc.con
 heraldo.es##.pbk_api_box
 heraldo.es##IMG[alt^="Seguros"]
+heterodoxias.es##CENTER
 heterodoxias.net##IMG#adBanner1
+hifi.fr-bb.com##[style="padding:10px 0 0 0 !important;"]
 hi-fi.ru##[width="240"][height="400"]
 hi-fi.ru##[width="728"][height="90"]
 hifichoice.co.uk##.AdSenseBanner
@@ -3428,6 +3461,7 @@ hifi-forum.de###ad-bigsize-outer
 hifi-forum.de###ad-bigsize-outer + *
 hifi-forum.de###ad-tail-placeholder
 hifi-forum.de###container-content1
+hifi-forum.de###widget_19
 hifi-forum.de##[style^="float:left; width: 300px; height: 250px;"]
 hifilive.es###banner-cabecera-widget
 hifilive.es###bannertop
@@ -3467,6 +3501,7 @@ homecinema-fr.com##.advertbar
 home-subwoofers-review.toptenreviews.com##.ad_loc
 hometheater.com###sub_pop
 hometheater.com##.adright
+hometheater.com##[class*="-ad-"]
 hometheaterforum.com###sidebar-ad
 hometheaterforum.com##.buy-now
 hometheaterforum.com##.sponsor-btns
@@ -3491,6 +3526,7 @@ huffingtonpost.com##[id^="ad"]
 huffingtonpost.com##FORM[action="http://www.careerbuilder.com/PLI/QuickSrch.aspx"]
 huffingtonpost.es###ad_right_rail_flex
 huffingtonpost.es###Ads_Top
+huffingtonpost.es###hp_cconsent
 huffingtonpost.es##.ad_wrapper
 huffingtonpost.fr##.ad_wrapper
 huffingtonpost.fr##[style^="z-index: 1; background-color: transparent; width: 1000px; height: 90px;"]
@@ -3504,12 +3540,15 @@ ideas4all.com###home-adsense-container
 ieco.clarin.com##.Pub-120_600
 iestap.in###pub
 i-fidelity.net##.superbanner
+iguide.to###ad_overlay
 ikkaro.com##[align="left"]
 ilgiornale.it###tab_annunci
 ilustradordigital.es##[id^="banner"]
 imagebam.com##[style*="border:1px solid #F99B05;"]
 imagebam.com##TD[style^="width:300px; height:250px;"]
 images.search.conduit.com##.ads_wrapper
+imageshack.us###promo-subscription
+imageshack.us###promo-subscription-overlay
 imageshack.us###yf3-popup-bg
 imageshack.us###yf3-popup-container
 imdb.com###top_ad_wrapper
@@ -3604,6 +3643,7 @@ jose.gs##.sidebarbanner300x250
 jose.gs##.sidebarbanner300x600
 jose.gs##[style^="display:block;margin:0 auto;"]
 jotdown.es##EMBED[src="http://cdnx.tribalfusion.com/media/common/flash/frame3.swf"]
+jotdown.es##IMG[width="1016"][height="85"]
 jotdown.es##IMG[width="300"][height="250"]
 jotdown.es##IMG[width="300"][height="300"]
 journalhub.com##TD[width="250"]
@@ -3698,6 +3738,9 @@ laregion.es##.publicidad_video1_hor
 laregion.es##[style^="width: 980px; overflow: hidden;"]
 laregion.es##[style="height: 90px; overflow: hidden; margin-bottom: 10px;"]
 larepublica.pe##[id^="banners"]
+lasexta.com##.capa_cookies
+lasexta.com##.mod_ad_top
+lasexta.com##.mod_roba
 lasprovincias.es##[id^="publi"]
 lasprovincias.es##TABLE[width="180"][height="120"]
 latercera.com##.boxContenedor.productos
@@ -3707,6 +3750,7 @@ latimes.com##[src="http://offersanddeals.latimes.com/places/embed"]
 latimes.com##TABLE[class="cubeAd"]
 latiza.es##TD[id^="tdPublicidad"]
 latribuna.hn##.featuredtop2
+lavanguardia.com###divCookiesBox
 lavanguardia.com##.lv24hpublicidad
 lavanguardia.com##.partner01
 lavanguardia.com##.suscriptorpromo
@@ -3788,6 +3832,7 @@ libertaddigital.com##[id^="div-gpt-ad"]
 libertaddigital.com##[id^="tienda"]
 libertaddigital.com##[style^="width:985px; height: 73px;"]
 libertaddigital.com##A.sms
+libertaddigital.com##ASIDE[id="cookies"]
 libertaddigital.com##IMG[usemap="#tienda310"]
 libremercado.com###plista_widget_slide
 libremercado.com###tienda-grande
@@ -3869,6 +3914,8 @@ maspeliculas.tk###floatLayer2
 masterblasterfx.com##.forumline.module-advert
 materna.com.es##TD[width="180"]
 matiascallone.blogspot.com##IMG[alt="Publicidad"]
+maxdeportvcanal--6.blogspot.com###adsdiv
+maxdeportvcanal--6.blogspot.com##TD[valign="top"][align="center"]
 mediabistro.com###featuredJobs
 mediabistro.com##[id$="Ad"]
 mediafire.com##[class*="banner"]
@@ -3886,6 +3933,7 @@ mejortorrent.com###ddbar
 mejortorrent.com###DESCARGAslidein
 mejortorrent.com###layer
 mejortorrent.com##A[href^="http://www.regatron.es/"]
+mejortorrent.com##DIV[style^="padding-top:5px;float:left;"]
 meneame.net##.ads-interlinks
 meneame.net##[id^="banner"]
 meneame.net##[style$="height:62px"]
@@ -3993,6 +4041,7 @@ mundodvd.com###navbar_notice_5
 mundodvd.com###publi728x90_superior
 mundodvd.com##.guestwarn
 mundodvd.com##.navbar_notice
+mundodvd.com##.restore
 mundodvd.com##[style^="WIDTH: 300px; FLOAT: right; HEIGHT: 250px;"]
 mundohi-fi.com###topbanner
 mundohi-fi.com##.textwidget IMG
@@ -4333,6 +4382,7 @@ rutracker.org###bn-tio-1
 rutracker.org###ddest-bn-1
 rutracker.org###owo-idx-6
 rutracker.org###page_footer
+rutracker.org##[id^="adriver-"]
 s.yimg.com###richad
 safehaven.com##.advertisment
 safehaven.com##[class*="banner"]
@@ -4423,6 +4473,7 @@ softpedia.com##IMG[width="728"][height="90"]
 softwarelibre.gob.ve###homenaje
 softzone.es##.ad.banner_top
 softzone.es##[id^="DFP_NEWS_"]
+solosubtitulos.com###vlc
 soundandvisionmag.com###header-banner
 soundandvisionmag.com###mini-panel-header_top
 soundstagehifi.com##.banneritem
@@ -4461,6 +4512,7 @@ stereophile.com###sub_pop
 stereophile.com###topbannerad
 stereophile.com##.ad_box
 stereophile.com##.adright
+stereophile.com##[class*="-ad-"]
 stereophile.com##TABLE[width="336"][height="280"]
 streamate.com##HTML
 streamcloud.eu###javawarning
@@ -4611,6 +4663,7 @@ tuenti.com##.brand_footer
 tuenti.com##.sponsoredEvents
 tuenti.com##[id$="ad_container"]
 tuenti.com##[id*="sponsor"]
+turbobit.net##.download-top
 tusanuncios.com###megabanner
 tusanuncios.com###modPubli
 tusanuncios.com##.greybox
@@ -4624,6 +4677,8 @@ tv3.cat##.directe_superbanner
 tv3.cat##.roba
 tv3.cat##.sky
 tvoh.es###sidebar_top
+tvonlinegratis.mobi###floatLayer
+tvonlinegratis.mobi##.ads_box
 tweetmeme.com##.partners.item.last
 twenga.es###gadsE
 twitter.com##.promo
@@ -4656,7 +4711,9 @@ usatoday.com##.ad
 vadejocs.ara.cat##.publi
 valenciaplaza.com##.banner
 valleymorningstar.com##[class^="adtext"]
+vanguardia.com.mx##.ad
 vanguardia.com.mx##.adserv
+vanguardia.com.mx##.header-ads
 vanitatis.com##[id^="publi"]
 vayavicio.com##.col_banners2
 vayavicio.com##.marcobanner
@@ -4700,6 +4757,7 @@ welt.de##[id^="banner"]
 welt.de##[style="width: 300px; height: 250px;"]
 whathifi.com###pageHeader
 wikipedia.org###siteNotice
+windowsxlive.net##[id^="google_ads_"]
 wired.com###AMS_WIR_FOOTER_NAVBAR_POPUP
 worldrewardcenter.net##.wrapper_cert
 wradio.com.mx##TD[height="90"]
@@ -4735,6 +4793,8 @@ youtube.com###homepage-sidebar-ads
 youtube.com##.ad-div
 youtube.com##.branded-page-v2-top-row.clearfix
 youtube.com##.promoted-videos
+yukons.net###closeAdButton
+yukons.net###timerDiv
 zappinternet.com###adl_medium_rectangle
 zappinternet.com##.adnComPromo
 zdnet.com##[class*="mpu"]
