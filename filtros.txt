@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 !  FILTROS NAUSCOPICOS by maty (Spanish+English+Others ad-blocking subscription)
-!    Last modified: Set 02, 2013 16:40 UTC
+!    Last modified: Set 05, 2013 16:00 UTC
 !    This list expires after 5 days
 !    add the Nauscopio filter for even more: http://nauscopio.wordpress.com/category/filtrado/
 !    License: http://creativecommons.org/licenses/by-nc-sa/3.0/es/
@@ -326,6 +326,7 @@ xcounter
 ||admeta.cotcdn.net/
 ||admix.gr/
 ||adn.es/*/*/*/promo
+||adne.tv/
 ||adnetwork.*.com.ar/
 ||adnetwork.*.com/
 ||adnxs.com/
@@ -663,7 +664,6 @@ xcounter
 ||ccbets.com/
 ||cc-dt.com^
 ||cdn*.a9.com/*/*/prod-am
-||cdn*.cpmstar.com/
 ||cdn*.smartadserver.com/diff/js/smartadserver.js
 ||cdn.*.com/*/themes/*/*/sidebar/*Banner
 ||cdn.*.com/*/themes/*/*/sidebar/300x250
@@ -709,6 +709,7 @@ xcounter
 ||clavedigital.com/*/*/Rotulos/
 ||clavedigital.com/*/publicidades/
 ||clavedigital.com/Especiales/
+||clickpoint.com/
 ||clixsense.com/
 ||clixsense.com/*$popup
 ||clkads.com/
@@ -783,6 +784,7 @@ xcounter
 ||delivery.*.net/
 ||delivery.trafficforce.com/
 ||deportespain.com/125
+||deportetv.com.ve/ads_
 ||depositosaltarentabilidad.com/*/*/300x250
 ||descobrir.cat/*/img2/skin
 ||desdewallstreet.com/logo
@@ -846,6 +848,7 @@ xcounter
 ||discovery.com/*/*/*/advertisement
 ||distrowatch.com/*/*/samsung-
 ||distrowatch.com/*/kokoku/
+||divxtotal.com/*/EfectoLED
 ||dlelatino.com/728x90
 ||dlqm.net/
 ||dlvr.readserver.net/$popup
@@ -1068,6 +1071,7 @@ xcounter
 ||feed.4wnet.com/
 ||feedsportal.com/
 ||fetenweb.com/*/*/*/*/banner
+||fhserve.com/www/delivery/ac.php?bannerid
 ||ficodtv.es/images/logos/
 ||file01.lavanguardia.es/
 ||filepost.com/*/*/bn/
@@ -1216,6 +1220,7 @@ xcounter
 ||hotfile.com/i/banners/
 ||hotmail.com/*/*/*/*/*/Ad
 ||hotwords.com.*/
+||hotwords.es/
 ||hoy.com.ec/banner
 ||hoy.ec/*/img/laterales
 ||hoy.es/*/*/*/publicidad/
@@ -1405,6 +1410,7 @@ xcounter
 ||leonoticias.com/adjuntos/banner
 ||leparisien.fr/imgs/event/
 ||leparisien.fr/leguide/001_accueil/
+||letitbit.net/images/other/
 ||letraslibres.com/sites/*/*/*/banner
 ||lettera43.it/*/spot/
 ||level.anuntis.com/
@@ -1716,6 +1722,7 @@ xcounter
 ||politraductor.com/images/anuncio
 ||politraductor.com/publi2.swf
 ||pop6.com/banners/
+||popads.net/
 ||popadscdn.net^
 ||popsci.com/files/iframes/
 ||porandalucialibre.es/*/logotipo/publi
@@ -1725,6 +1732,8 @@ xcounter
 ||portal*.com/*/java_banners/
 ||portal*.net/*/Banners_Publicidad/
 ||portal*.net/*banners/
+||post.rmbn.net/cgi-bin/
+||post.rmbn.net/posts_flash/
 ||poweraudio.ro/banar
 ||poynter.org/bmp/media/
 ||predictad.com/
@@ -1752,6 +1761,7 @@ xcounter
 ||promobenef.com^
 ||promociones.motorflash.com/
 ||promocionesweb.com/
+||promo-popup.nrs-group.com/
 ||promos.*.com/
 ||promos2.adlead.com/
 ||promotions.shoopadoo.com/
@@ -1975,6 +1985,7 @@ xcounter
 ||srx.main.ebayrtm.com
 ||ssl-stats.wordpress.com^
 ||statcounter.com/counter/
+||static.animeid.com/ads/
 ||stats.wordpress.com/
 ||stereo.ru/banners/
 ||stereotimes.com/*/bg_cell150
@@ -2074,6 +2085,7 @@ xcounter
 ||tqlkg.com^
 ||trabajos.com/usuarios-boletin/
 ||track.adbooth.net^
+||tracker.alianzis.com/
 ||tracker.issuu.com/
 ||tradetracker.net/
 ||trafficfactory.biz//banners/
@@ -2257,6 +2269,7 @@ https://*.*/openx/
 20minutos.es##[class^="ad2b"]
 20minutos.es##[src="http://estaticos.20minutos.es/ads"]
 20minutos.es##IMG[usemap="#tienda_ofertas"]
+20minutos.tv###cookies-policy
 20minutos.tv##.marketplace
 26noticias.com.ar##[class^="banner_"]
 26noticias.com.ar##[id^="Banner_"]
@@ -2325,6 +2338,7 @@ advisorperspectives.com###wrapad
 agraw.com##.gv-placement-sap
 alatest.co.uk###b_top_leaderboard_con
 alatest.es###b_top_leaderboard_con
+alatest.es##.product-inlist-ad
 aldia.cr##.por-encabezado-shpag-ad
 aldia.cr##EMBED#TKportada
 alertadigital.com###bannerscol
@@ -2355,6 +2369,8 @@ animeflv.net##.publi_1
 animeid.com##.a160
 animeid.com##.a300x250
 animeid.com##.a728
+animeid.tv###sky
+animeid.tv##.ads728x90
 aniversalia.com##IMG[usemap="#destacadoMap"]
 antag.es##.block_sponso
 antena3.com##.advertise
@@ -2729,6 +2745,7 @@ cultura21.cat##TD.cap
 customize.org##[style^="text-align:center; padding:0px 0px 20px 0px;"]
 cuwhois.com##TD.Estilo15
 cuwhois.com##TD[height="20"]
+cyberlocker.ch###cpmstar_anchor
 d.startpagea.com###afterdownloadwidget
 dagogo.com###lbx_fade
 dagogo.com###lbx_light
@@ -2752,6 +2769,8 @@ deia.com##.Publicidad
 delcamp.cat##.header-banner
 deportes.terra.es###mod-adv
 deportes.terra.es###trr-ctn-advertising
+deportetv.com.ve###dxy2
+deportetv.com.ve###nf37
 descargaralbum.com###topbar
 descargasxbox.com###postit
 descargaya.es###topbar[align="RIGHT"]
@@ -3146,6 +3165,7 @@ es.beruby.com##.banner_mega
 es.cars.yahoo.com###lrec
 es.cine.yahoo.com##.story.first.last
 es.engadget.com##.medrect
+es.engadget.com##[id^="ads"]
 es.euronews.net##[id^="OAS"]
 es.goal724.com##.advertisement-1
 es.justin.tv###ad_holder
@@ -3321,6 +3341,7 @@ foros.fayerwayer.com###announce
 foros.vogue.es##TABLE[width="100%"][height="94px"]
 forosdeelectronica.com##[style="float: left; width: 380px; margin-top: 10px;"]
 forosdeelectronica.com##[style="padding: 10px; float: left;"]
+foroxd.com##.publi
 forum.blu-ray.com##TD.bottom[width="62"]
 forum.blu-ray.com##TD[width="350"]
 forum.ixbt.com##IMG[width="240"][height="400"]
@@ -3807,6 +3828,7 @@ lepost.fr##.bizdev_horizontal
 lesechos.fr###megabanner-top
 lesnumeriques.com###ifr_pub_carre
 lesrevistes.cat##[id^="banners"]
+letitbit.net##.flash-not-found
 lettera43.it##.banner
 lettera43.it##.left-adv
 lettera43.it##.right-adv
@@ -3923,6 +3945,7 @@ mediaweek.co.uk###googleAd
 mediaweek.co.uk###headerPromo
 mediaweek.co.uk##.bannerHeaderContainer
 mediaweek.co.uk##.xColBoxContent.jobsBoxContent
+mega-juegos.es###promo_tout
 megaseries.com.br###floatLayer2
 megaseries.com.br###floatLayer3
 megaupload.com###tabs
@@ -4033,6 +4056,7 @@ muchomp3.net##.Publi728
 multiestrenos.com###ddbar
 multiestrenos.com###DESCARGAslidein
 mundoanuncio.es##.adsense-item
+mundodeportivo.com###divCookiesBox
 mundodeportivo.com##.publi
 mundodvd.com###ad_global_header2
 mundodvd.com###navbar_notice_17
@@ -4505,6 +4529,8 @@ sportyou.es##[style="margin-top:5px;width:960px;height:90px;clear:both;display:b
 sportyou.es##[width="300"][height="52"]
 start.speedbit.com###wide_ad_unit
 start.speedbit.com##.ggadunit
+static.animeid.com##EMBED[width="160"][height="600"]
+static.animeid.com##EMBED[width="728"][height="90"]
 stereo.net.au###banner
 stereo.net.au###top_ad
 stereo.net.au##IMG[width="336"]
