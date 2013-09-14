@@ -1,5 +1,6 @@
+[Adblock Plus 2.0]
 !  FILTROS NAUSCOPICOS by maty (Spanish+English+Others ad-blocking subscription)
-!    Last modified: Set 14, 2013 10:00 UTC
+!    Last modified: Set 14, 2013 10:01 UTC
 !    This list expires after 5 days
 !    add the Nauscopio filter for even more: http://nauscopio.wordpress.com/category/filtrado/
 !    License: http://creativecommons.org/licenses/by-nc-sa/3.0/es/
