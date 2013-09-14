@@ -1,7 +1,7 @@
-[Adblock Plus 2.0]
+[Adblock & Adblock Plus]
 !
 !  FILTROS NAUSCOPICOS by maty (Spanish+English+Others ad-blocking subscription)
-!    Last modified: Set 05, 2013 19:10 UTC
+!    Last modified: Set 14, 2013 09:30 UTC
 !    This list expires after 5 days
 !    add the Nauscopio filter for even more: http://nauscopio.wordpress.com/category/filtrado/
 !    License: http://creativecommons.org/licenses/by-nc-sa/3.0/es/
@@ -435,6 +435,7 @@ xcounter
 ||ad-sys.com/
 ||adtech.*/
 ||ad-traffic.*/
+||adtwothree.com/
 ||adv*.*.*/
 ||advertise.com/
 ||advertserve.com/
@@ -500,6 +501,7 @@ xcounter
 ||ar.mundome.com/
 ||ara.cat/*/*3i5
 ||ara.cat/*/img/caldo
+||ara.cat/iframes/petitcupo/
 ||aragondigital.*/banners/
 ||areadvd.de/*/banner/
 ||as.com/comunes/planeo_promo/
@@ -612,6 +614,7 @@ xcounter
 ||bolsagora.com/v2/prod/*banners*/
 ||bolsamania.com/*/publicidad/
 ||booking.com/?aid
+||botiga.ara.cat/iframe.html
 ||bottup.com/images/*/*/banner
 ||boxset.ru/*/uploads/*/*/file*jpg
 ||boxset.ru/filesonic
@@ -749,6 +752,7 @@ xcounter
 ||cpalock.com/
 ||cpmrocket.com/
 ||cpxinteractive.com^
+||crazyocio.com/
 ||criteo.com/delivery/
 ||criteriaclub.com/publi/
 ||criticadigital.*/*/banners/
@@ -906,6 +910,7 @@ xcounter
 ||elboletin.com/Imagenes/iberia
 ||elboletin.es/*/*/*/*/baner
 ||elcaribecdn.com/*/banners/
+||elcomercio.e3.pe/*/*/*/tc.nextel
 ||elconfidencial.com/*/enlace_patrocinado.js
 ||elconfidencial.com/creatividades/
 ||elconfidencialdigital.com/*/Banners/
@@ -1055,6 +1060,7 @@ xcounter
 ||extraconfidencial.com/*/publi/
 ||exvagos.com/descargando
 ||eyewonder.com^
+||ezpowerads.com/
 ||facilisimo.com/images/
 ||factortg.com^
 ||facua.org/es/defiende2.swf
@@ -1130,6 +1136,7 @@ xcounter
 ||ftjcfx.com^
 ||ftp.rankia.com/www/images/
 ||fudzilla.com/*/banners/
+||fullsponsor.com/
 ||fulltiltpoker.com/
 ||fulltv.com.ar/pub_
 ||fundspeople.com/images/banners/
@@ -1138,6 +1145,7 @@ xcounter
 ||funiber.org/2008/*/*/200
 ||funimation.com/*/*/*/*/banners/
 ||funpic.de/layer
+||fusionads.net/
 ||gabfirethemes.com/*/*/*/*/promo
 ||galiciae.com/banners/
 ||game-advertising-online.com/
@@ -1303,6 +1311,7 @@ xcounter
 ||itmcash.com/banners/
 ||itongadol.com/*/*/*banner
 ||itrack.it/
+||iwadserver.com/
 ||ixbt.com/*/*banner_
 ||ixbt.com/branding/ulmart/branding_main_
 ||jazztimesjazz.com/*/delivery/
@@ -1333,6 +1342,7 @@ xcounter
 ||kioskofree.com/uploads/banners/
 ||km77.com/*/concurso
 ||kontera.com^
+||kontextua.com/
 ||kqzyfj.com^
 ||krxd.net/config/?pubid
 ||kuarteto.com/publicidad
@@ -1411,6 +1421,7 @@ xcounter
 ||leparisien.fr/imgs/event/
 ||leparisien.fr/leguide/001_accueil/
 ||letitbit.net/images/other/
+||letitbit.net/images/rebrandings/*/background
 ||letraslibres.com/sites/*/*/*/banner
 ||lettera43.it/*/spot/
 ||level.anuntis.com/
@@ -1643,6 +1654,7 @@ xcounter
 ||ojdinteractiva.com/
 ||ojobuscador.com/logo/actual.gif
 ||omguk.com^
+||onclickads.net/
 ||online.com.es/*/sponsors/
 ||openadnetwork.com^
 ||openads.*.com/
@@ -1844,6 +1856,7 @@ xcounter
 ||religionenlibertad.com/*/publicidad/
 ||religionenlibertad.com/*/sombra_izq_cl.gif
 ||religionenlibertad.com/Banner
+||relink.us/banner
 ||relink.us/include/ad
 ||remusic.it/mmfile.php?
 ||renfe.com/viajeros/horariosLaRazon/
@@ -2136,6 +2149,8 @@ xcounter
 ||videobuster.de/nlsp.php?adid
 ||videoegg.com/*/*/*/*/Ad
 ||videosz.com/spots/
+||vilaweb.cat/*/botiga/*/963x90
+||vilaweb.cat/getbanner
 ||viraladstore.com/
 ||vistazoalaprensa.com/frmsup.asp
 ||vitalads.net/
@@ -2398,7 +2413,9 @@ ar.mc1630.mail.yahoo.com###ch_col_h1
 ar.mc1630.mail.yahoo.com###slot_LREC
 ar.mundome.com###subContentWrapper
 ara.cat###ara-meuara_bar
+ara.cat##.ad-w3
 ara.cat##.ad-wallpaper
+ara.cat##.bd
 ara.cat##.md-advertisement
 ara.cat##.md-arapromo
 ara.cat##[class$="ad"]
@@ -2723,6 +2740,7 @@ criatures.ara.cat##.publi
 criticadigital.com##.cbanner728
 cronica.cat##.banner2
 cronica.com.mx##TD[height="90"][width="970"]
+cronicaglobal.com##[class^="banner"]
 cruceros.edreams.es##A[href^="http://adclick.g.doubleclick.net"]
 cruceros.edreams.es##A[href^="http://googleads.g.doubleclick.net/"]
 crunchnotes.com##TD
@@ -2784,6 +2802,7 @@ diagonalperiodico.net###zone-publiheader-wrapper
 diagonalperiodico.net##.simpleads-diagonal
 diariandorra.ad##.advert
 diariandorra.ad##.flexbannergroup
+diaridegirona.cat###MensajeCompruebaCookieSite
 diaridegirona.cat##.servicios
 diaridetarragona.com###articulo_379
 diaridetarragona.com##.publicidad_top
@@ -3120,6 +3139,7 @@ eltiempo.com##[class^="pauta"]
 eltiempo.es##.logo
 eltiempo.es##IMG[width="600"][height="60"]
 eltriangle.eu##.banner
+eltriangle.eu##.banner_horizontal
 eluniversal.com###ventana2
 eluniversal.com##.bannersTop
 eluniversal.com##.Box.ClasificadosR.floatL
@@ -3232,6 +3252,7 @@ europapress.es##IMG[id^="sprtm"]
 europapress.es##IMG[width="300"][height="60"]
 europasur.es##.megabanner
 expansion.com###modulo_fds
+expansion.com##.bloque-cookies
 expansion.com##.master_finanzas
 expansion.com##.publicidad
 expansion.com##[class$="zonapremium"]
@@ -3279,7 +3300,11 @@ feedly.com##.fusionAdLink
 ficod2009.es##[class*="view-id-view_mediapartners"]
 filefactory.com###downloadPremium
 filefactory.com###facebox_overlay
+filefactory.com###joinModal
 filefactory.com###outerContainer
+filefactory.com###premium
+filefactory.com###upgrade
+filefactory.com##.modal-backdrop.fade.in
 fileforum.betanews.com##[class*="boxad"]
 fileforum.betanews.com##[class^="ad"]
 filehippo.com##[class^="ad"]
@@ -3857,6 +3882,7 @@ libertaddigital.com##[style^="width:985px; height: 73px;"]
 libertaddigital.com##A.sms
 libertaddigital.com##ASIDE[id="cookies"]
 libertaddigital.com##IMG[usemap="#tienda310"]
+libremercado.com###cookies
 libremercado.com###plista_widget_slide
 libremercado.com###tienda-grande
 libremercado.com##.anuncio.publicidad
@@ -4139,6 +4165,7 @@ noticias.lainformacion.com##[id^="Welcome"]
 noticias.terra.com.co##.adv-halfpage
 noticias.univision.com###header_wrapper1
 noticias.univision.com##.pub_300x250m
+noticias24.com##.ad300
 noticias24.com##[class^="adBlock"]
 noticias3d.com##TD[style="text-align: center;"][colspan="3"]:last-child
 noticiasdealava.com##.Publicidad
@@ -4149,6 +4176,7 @@ noticiasdot.com###header-publi
 noticiasgalicia.com##TABLE[width="46%"][bordercolor="#cccccc"]
 noticiesdot.cat##[id$="publi"]
 noticiestgn.cat###banners_top
+noticiestgn.cat###sidebar-ads
 nowvideo.eu##.ad
 nowvideo.eu##.ad2
 npr.org##.adwrapper
@@ -4174,6 +4202,7 @@ nytimes.com##.story.advertisement
 nytimes.com##[id^="adx"]
 observatorioinmobiliario.es###bannerseparado
 observatoriomilitar.es##[id^="banner"]
+oldnewsound.es##.adwrap
 ole.com.ar##[class$="adv"]
 olx.es##.ads-item-table.afs
 omg.yahoo.com###omg-lrec
@@ -4225,6 +4254,7 @@ peliculasid.net##[class^="banner"]
 peliculasyonkis.com###ads_superior
 peliculasyonkis.com##.ads
 peliculasyonkis.com##.buy_show
+peliculas-y-series.programasfull.com###vlcb
 penultimosdias.com##A[class^="srollover"]
 penultimosdias.com##IMG[width="300"][height="300"]
 peopleenespanol.com##.topAd
@@ -4290,6 +4320,7 @@ project-syndicate.org##.ad_rectangle_medium
 promocion-jazztel.com##BODY
 pubads.g.doubleclick.net###ads
 publico.es###articulo_146
+publico.es###avisocookies
 publico.es###bannerMotor
 publico.es###contenedor_87
 publico.es###robapaginasCont
@@ -4313,6 +4344,7 @@ quiosc.elpunt.cat##TABLE.publicitath1
 quo.es##[id^="publi"]
 quo.es##IMG[title$="Destinia.com"]
 rac1.org##EMBED[height="150"]
+racocatala.cat##.ads
 racocatala.cat##[class$="-ads"]
 rankia.com###captador
 rankia.com###google_flash_embed
@@ -4350,6 +4382,7 @@ reforma.com##TABLE[width="960"][height="110"][bordercolor="blue"]
 reforma.com##TABLE[width="960"][height="80"]
 reforma.com##TD[width="193"][height="248"]
 regio7.cat###iberpestanas
+regio7.cat###MensajeCompruebaCookieSite
 religionconfidencial.com###topbar
 religionenlibertad.com##TABLE[width="990"][bgcolor="#ffffff"]
 relink.us##.ad_right
@@ -4568,6 +4601,7 @@ taringa.bligoo.com###floatLayer3
 taringaz.bligoo.com###cpmstar_anchor_slide
 tarot-gratuito.com###adblock-big
 tarragona21.cat##[id$="banner"]
+tarragona21.com##IMG[width="649"][height="39"]
 taz.de##[id^="ad_"]
 tbd.com##[class^="ad"]
 techcrunch.com##[class*="sponsor"]
@@ -4683,6 +4717,7 @@ trustedreviews.com###afs
 trustedreviews.com###top-sky
 trustedreviews.com##[id^="afc"]
 tube8.com##.ad-wrapper
+tucows.com##.sponsored_box
 tuenti.com###ccTazad *
 tuenti.com###js-cat-taz-spnsrs
 tuenti.com###overlaysContainer
@@ -4786,6 +4821,7 @@ whathifi.com###pageHeader
 wikipedia.org###siteNotice
 windowsxlive.net##[id^="google_ads_"]
 wired.com###AMS_WIR_FOOTER_NAVBAR_POPUP
+wordpress.com##[id^="wordads"]
 worldrewardcenter.net##.wrapper_cert
 wradio.com.mx##TD[height="90"]
 wsj.com##.adSummary.advertisement
