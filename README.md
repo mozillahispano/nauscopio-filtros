@@ -1,4 +1,4 @@
 nauscopio-filtros
 =================
 
-Filtros nauscopicos para ABP
+Filtros nauscopicos para Adblock y Adblock Plus
