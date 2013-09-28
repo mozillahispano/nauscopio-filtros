@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 !  FILTROS NAUSCOPICOS by maty (Spanish+English+Others ad-blocking subscription)
-!    Last modified: Set 25, 2013 16:31 UTC
+!    Last modified: Set 28, 2013 16:00 UTC
 !    This list expires after 5 days
 !    add the Nauscopio filter for even more: http://nauscopio.wordpress.com/category/filtrado/
 !    License: http://creativecommons.org/licenses/by-nc-sa/3.0/es/
@@ -876,6 +876,7 @@ xtcore
 ||dope.dk^
 ||dopplr.com/ads/
 ||doubleclick.net/adj/rstone.site/
+||doubleclick.net/adj/whathifi
 ||dreamhost.com/images/rewards/
 ||dt07.net/
 ||dtmpub.com^
@@ -1216,6 +1217,7 @@ xtcore
 ||hard-h2o.com/*/banners/
 ||hard-h2o.com/sites/*/*/*630x90.swf
 ||hardwaremx.com/*/banner
+||haymarket.com/
 ||hb.lycos.com^
 ||hddaudio.net/*/Adverts*/
 ||headfonics.com/sponsorlogo/
@@ -1293,6 +1295,7 @@ xtcore
 ||img.e-planning.net/
 ||img-cdn.mediaplex.com/
 ||imgn.dt00.net/
+||i-mobile.co.jp/ad_spot
 ||impact.as^
 ||impresionesweb.com^
 ||imrworldwide.com/cgi-bin/j?rnd=
@@ -1566,6 +1569,7 @@ xtcore
 ||miapuesta.com/*/*/newsletter/
 ||miarevista.es/*/*/promo/
 ||miarroba.*/*/banners/
+||microad.jp/
 ||micropagosx.com/
 ||microsiervos.com/img/logo-muy.png
 ||midaddle.com^
@@ -1620,6 +1624,7 @@ xtcore
 ||musik-a-z.com/musik*/
 ||muycomputer.com/*/*/muycomputer.gif
 ||muycomputer.com/*/*PEQ/
+||mycity.rs/img/*/300x250
 ||myreferer.com^
 ||myrxcash.com/banners/
 ||myspace.com/AdSandbox
@@ -1855,6 +1860,7 @@ xtcore
 ||publipress.*.*/
 ||pubs.xl.pt/
 ||pubserver.*.*/
+||pubted.com/
 ||punchtab.com/
 ||puntoradio.com/*/*/*banner
 ||puritanas.com/*/telefono
@@ -2011,12 +2017,12 @@ xtcore
 ||sinkroma.com/*/*/banner
 ||sintetia.com/*/*/themes/*/*anner
 ||sistematics.com/img/ads/
+||skimlinks.com/
 ||slashgear.com/ads/
 ||slobodnadalmacija.hr/baner/
 ||smartadserver.com/*/pubjall/
 ||smarttargetting.co^
 ||sms-xvideos.com/download/
-||sndcdn.com/
 ||softpedia-static.com/*/ads/
 ||softzone.es/*/*/*/ads/
 ||solostocks.com/banners/
@@ -2443,6 +2449,8 @@ animeid.com##.a300x250
 animeid.com##.a728
 animeid.tv###sky
 animeid.tv##.ads728x90
+anipo.jp###top_banner
+anipo.jp###zd0b
 aniversalia.com##IMG[usemap="#destacadoMap"]
 antag.es##.block_sponso
 antena3.com##.advertise
@@ -2936,12 +2944,16 @@ diariotorredonjimeno.es##.banners
 diariotorredonjimeno.es##[id^="anuncio"]
 diariovasco.com##.adds
 diariovasco.com##[style="height: 105px; clear: both;"]
+dictionary.reference.com###top[style$="background-color:#FEFEF4;"]
+dictionary.reference.com##.banner-ad
+dictionary.reference.com##.box-ad
+dictionary.reference.com##.slA
 diezminutos.es##IMG[width="300"][height="90"]
 digg.com###announce
 digg.com###game
 digg.com##[class*="promo"]
 digg.com##P[class="first"]
-digitalaudioreview.net###useful_banner_manager_widget
+digitalaudioreview.net##[id*="banner_"]
 digitalversus.com##[id$="pub"]
 digitalversus.es###ifr_pub_carre
 dir.yahoo.com##.ov1
@@ -3355,9 +3367,14 @@ farodevigo.es##.dtm_buscador
 fastmail.fm##.statusMessage
 fastmail.fm##TD.GenMsg
 fayerwayer.com###ad_interpost
+fayerwayer.com###center-ad
 fayerwayer.com###robapagina1
+fayerwayer.com##.ad
 fayerwayer.com##.banner
 fayerwayer.com##.publicidad.robapagina
+fayerwayer.com##[class*="ad-"]
+fayerwayer.com##[class*="ads-"]
+fayerwayer.com##[id*="ad-"]
 faz.net##.fazAdContainer
 feedly.com###portfolioModule_part
 feedly.com##.fusionAdLink
@@ -3723,6 +3740,7 @@ investmentnews.com###topAdBlock
 investmentpostcards.com##[width="190"][height="190"]
 investopedia.com###leader
 investopedia.com##.rightcol_boxad
+iogous.com##IMG[width="300"][height="250"]
 irishtimes.com##.content.cf
 isceners.org###banner-ad
 isceners.org###Yesup_Layer_Banner
@@ -3998,6 +4016,7 @@ mail.google.com##.Zs
 mail.google.com##[class="AT"]
 mail.google.com##[class="u5"]
 mail.ru##EMBED[width="200"][height="300"]
+mail.yahoo.com##div.fill
 malaga21.es###bannerSup
 mangafox.me###ad_top
 mangafox.me##.ad
@@ -4169,6 +4188,8 @@ muylinux.com###cookie-law-info-bar
 mx.yahoo.com##[class*="ad-"]
 my.nba.com###nbaHeaderAds
 my.opera.com###myo
+mycity.rs##.ads
+mycity.rs##.header_banners_top
 mysofa.es##.robapaginas300.f-r
 myspace.com###marketing
 n24h.com###header
@@ -4439,6 +4460,7 @@ redeszone.net##IMG[src*="/ads/"]
 redspade-audio.blogspot.com##[class$="ad"]
 redzer.net###floatLayer
 reevoo.com##.mpuAdvert.section
+reference.com##.banner
 reforma.com##TABLE[width="960"][height="110"][bordercolor="blue"]
 reforma.com##TABLE[width="960"][height="80"]
 reforma.com##TD[width="193"][height="248"]
@@ -4528,7 +4550,7 @@ search.nwsource.com###infospace
 search.nwsource.com###top_ads
 search.snapdo.com###AfloatingD
 search.yahoo.com###east
-search.yahoo.com##.ads.horiz.bot
+search.yahoo.com##.ads
 seattletimes.nwsource.com###adbottom
 seattletimes.nwsource.com###topadblock
 seattletimes.nwsource.com##.co_ads
@@ -4806,6 +4828,7 @@ tvonlinegratis.mobi###floatLayer
 tvonlinegratis.mobi##.ads_box
 tweetmeme.com##.partners.item.last
 twenga.es###gadsE
+twitch.tv##.advertisement
 twitter.com##.promo
 ultimahora.com##TD[height="14"]
 ultimahora.com##TD[height="60"]
@@ -4881,6 +4904,7 @@ welt.de##[class$="banner"]
 welt.de##[id^="banner"]
 welt.de##[style="width: 300px; height: 250px;"]
 whathifi.com###pageHeader
+whathifi.com###sliding-popup
 wikipedia.org###siteNotice
 windowsxlive.net##[id^="google_ads_"]
 wired.com###AMS_WIR_FOOTER_NAVBAR_POPUP
