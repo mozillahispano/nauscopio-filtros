@@ -567,6 +567,7 @@ xtcore
 ||axill.com/CBanners/
 ||ayudawordpress.com/*/banner
 ||ayudawordpress.com/*/publi/
+||azorbe.com/
 ||b.scorecardresearch.com/b?
 ||b5media.com/problogger
 ||babylon.com/*/*/*/blue_dark
