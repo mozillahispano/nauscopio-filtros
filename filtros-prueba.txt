@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 !  FILTROS NAUSCOPICOS by maty (Spanish+English+Others ad-blocking subscription)
-!    Last modified: Oct 02, 2013 19:40 UTC
+!    Last modified: Oct 12, 2013 08:00 UTC
 !    This list expires after 5 days
 !    add the Nauscopio filter for even more: http://nauscopio.wordpress.com/category/filtrado/
 !    License: http://creativecommons.org/licenses/by-nc-sa/3.0/es/
@@ -650,6 +650,7 @@ xtcore
 ||burotex.postaffiliatepro.com/*/*/banners/
 ||burstnet.com/
 ||businessinsider.com/*/*/partners/
+||businessinsider.com/adframe
 ||businessweek.com/gateway.swf?cacheKiller
 ||buysellads.com/
 ||bwp.*/search
@@ -693,6 +694,7 @@ xtcore
 ||cdn.amgdgt.com/
 ||cdn.cxense.com/
 ||cdn.cxpublic.com/
+||cdn.filefactory.com/js/*
 ||cdn.intermarkets.net/*/Intermarkets/
 ||cdn.investingchannel.com^
 ||cdn.invitemedia.net/
@@ -914,6 +916,7 @@ xtcore
 ||ecoticias.com/*/*/banner
 ||ecoticias.com/*/*200
 ||ecoticias.com/*/*620x75
+||ecwid.com/
 ||editorsweblog.org/pub/
 ||edreams.*/edreams/*/partners/*/
 ||efe.com/images/Promo_*.jpg
@@ -1011,6 +1014,7 @@ xtcore
 ||elperiodico.com/js/publicidad/
 ||elperiodicodearagon.com/banners*/
 ||elplural.com/banners/
+||elpuntavui.cat/*/promocions-
 ||elreferente.es/*/banner
 ||elreferente.es/image/publi
 ||elreferente.es/img/*/*PubliV.png
@@ -1269,11 +1273,13 @@ xtcore
 ||hotfile.com/i/banners/
 ||hotmail.com/*/*/*/*/*/Ad
 ||hotwords.com.*/
+||hotwords.com/
 ||hotwords.es/
 ||hoy.com.ec/banner
 ||hoy.ec/*/img/laterales
 ||hoy.es/*/*/*/publicidad/
 ||hoyvino.com/banners/
+||hstpnetwork.com/ads/
 ||htguide.com/*/bnr/
 ||html5.previewnetworks.com^
 ||html-links.com/banners/
@@ -1285,6 +1291,7 @@ xtcore
 ||ibercampus.es/*/publi/
 ||iblnews.com/ads/
 ||icbdr.com/
+||ic-live.com/
 ||icnr.es/*/publicidad/
 ||icnr.es/js/publicidadHTML.js
 ||ideal.es/includes/*/*/*/promociones/
@@ -1368,8 +1375,10 @@ xtcore
 ||jetcharters.com/banners/
 ||jmnoticias.com/*/*/*publicidad/
 ||jose.gs/*/*/*/*/banner
+||jotdown.es/*/*1024
 ||jotdown.es/*/altereco
 ||jotdown.es/*/hiper
+||jotdown.es/*/sb300/
 ||jpost.com/images/*/promos/
 ||juegos.com/vda/iframe.html
 ||juegosonce.com/*/*/pub/
@@ -1505,6 +1514,7 @@ xtcore
 ||linkstorm.net/
 ||liquidweb.com/banners/
 ||listin.com.do/splash/
+||live.sekindo.com/live/*$popup
 ||livescience.com/*/ads/
 ||llamar-gratis.es/publicidad/
 ||lne.es/*/publicidad/
@@ -1544,6 +1554,7 @@ xtcore
 ||massalamanca.es/*/*/publicidad/
 ||massmirror.com/download_frame_ad.php
 ||massmirror.com/massmirror_shareit
+||mastopofertas.com/
 ||masturbatorio.es/*/*/*/*/webcams
 ||match.net/
 ||materna.com.es/*/*/*/productos/
@@ -1676,6 +1687,7 @@ xtcore
 ||newsfactor.com/*/ads/
 ||newstin.*/img/ads/
 ||newyorker.com/*/*/ads/
+||ngrguardiannews.com/*/banners/
 ||n-mobile.net/
 ||nomaders.com/*/text_links/
 ||northmay.com^
@@ -2003,6 +2015,7 @@ xtcore
 ||seekingalpha.com/adsframe.html
 ||segre.com/*/*banners/
 ||segre.com/banners/
+||sekindo.com/
 ||selsin.net/
 ||sensacine.com/pub/
 ||seobook.com/*/banners/
@@ -2092,6 +2105,7 @@ xtcore
 ||sytes.net/*Banner
 ||tacoda.net/
 ||tag.tlvmedia.com/
+||tagshost.com/
 ||taragana.com/*/*banner
 ||tarragona21.com/anuncios/
 ||tarragona21.com/publicitat/
@@ -2162,6 +2176,7 @@ xtcore
 ||todopsp.com/*/banners/
 ||todovenganzas.com/
 ||tomadivx.org/publi
+||tonepublications.com/*/*_banner
 ||tools.todowebcams.com/
 ||topfn.com/topfncom.htm
 ||topfox.co.uk/a/site/*/
@@ -2263,6 +2278,7 @@ xtcore
 ||wiisos.com/*/ads/
 ||wiisos.com/images/banners/
 ||williamhill.com/promo
+||winwin.co.il/AttractiveAds_Media/*
 ||wired.com/images/*/*/*/*webAd
 ||wolframcdn.com/images/ads/
 ||woopra.com/js/woopra.js
@@ -2298,6 +2314,7 @@ xtcore
 ||yfum.com/
 ||yieldmanager.com/
 ||yieldx.com^
+||ynet.co.il/*BannerAdmin
 ||yonkis.com/banners/
 ||yoox.com/_partners/
 ||yorokobu.es/wp-content/uploads/banner
@@ -2816,6 +2833,7 @@ cocheymoto.es##.info_publicidad_baner_google
 collegehumor.com##.ad_box
 collegehumor.com##[id$="banner"]
 comohacer.eu##.ad-squares
+comoviajo.com###reminder
 comparador.euribor.com.es##[class*="bankimia"]
 computeraudiophile.com###block-block-41
 comunicacio21.cat###headerBanners
@@ -2843,6 +2861,7 @@ criatures.ara.cat##.publi
 criticadigital.com##.cbanner728
 cronica.cat##.banner2
 cronica.com.mx##TD[height="90"][width="970"]
+cronicaglobal.com##.cookies_alert_wrapper
 cronicaglobal.com##[class^="banner"]
 cruceros.edreams.es##A[href^="http://adclick.g.doubleclick.net"]
 cruceros.edreams.es##A[href^="http://googleads.g.doubleclick.net/"]
@@ -2878,6 +2897,10 @@ dailymail.co.uk##[class*="advertorials"]
 dailymail.co.uk##A[href*="ad."]
 dailytech.com##.BottomMarquee
 damepsp.com##[class^="ad"]
+darkreloaded.com###document_modal
+darkreloaded.com###some_ad_block_key_popup
+darkreloaded.com##.ipsSideBlock.clearfix
+darkreloaded.com##.message.unspecific
 dawn.com##.bigbox-ad
 dawn.com##[class*="ad-"]
 db.tidbits.com###content_ad_square
@@ -3075,7 +3098,12 @@ elcomercio.com##[class*="publi"]
 elcomercio.pe###slider_encartes_wrapper
 elconfidencial.com###banner
 elconfidencial.com##[id^="publi"]
+elconfidencialautonomico.com###ad
+elconfidencialautonomico.com##.md-advertisement
+elconfidencialdigital.com###ad
+elconfidencialdigital.com##.ad-hw
 elconfidencialdigital.com##.Banner
+elconfidencialdigital.com##.md-advertisement
 elconfidencialdigital.com##[class*="_publi-"]
 elconfidencialdigital.com##[class*="banner"]
 elconfidencialdigital.com##[class^="adLabel-"]
@@ -3212,6 +3240,7 @@ elperiodicomediterraneo.com##EMBED[width="300"][height="100"]
 elperiodicomediterraneo.com##IMG[width="300"][height="50"]
 elplural.com###header
 elplural.com##[id^="banner"]
+elporvenirclm.com###ca_banner
 elprogreso.galiciae.com###page_big_banner
 elprogreso.galiciae.com###page_top
 elpunt.cat##TD.ephabitatgefeed
@@ -3414,8 +3443,10 @@ filehippo.com##[class^="ad"]
 filehippo.com##[style^="width: 336px; height: 253px;"]
 filesharingtalk.com###ad_global_below_navbar
 filesonic.es##.adBanner
+filmaffinity.com###info-cookie
 filmaffinity.com##.float-right
 filmaffinity.com##[style^=" width:300px; height:250px;"]
+filmaffinity.com##[style^=" width:300px; min-height:250px;"]
 filmaffinity.com##TABLE[bgcolor="#6699cc"]
 filmaffinity.com##TABLE[style="border: 1px solid rgb(102, 102, 102);"]
 filmaffinity.com##TABLE[width="140"]
@@ -3480,6 +3511,7 @@ forums.hardwarezone.com.sg###ads-leaderboard
 forums.hardwarezone.com.sg###right-ads
 forums.hardwarezone.com.sg##.hwz-ad-postbit
 fotocasa.es##[id$="Banner"]
+fotogramas.es##.capaCookies
 fotoplatino.com##[style="margin-top:20px;height:212px;"]
 fotos.hispavista.com###ad_inferior2
 foxnews.com###marketplace
@@ -3576,6 +3608,7 @@ hagoclic.lavanguardia.com##[class^="add"]
 handelsblatt.com###skyscraper
 handelsblatt.com##CENTER
 hard-h2o.com##.flash-advertisement
+hard-h2o.com##[id^="ad-"]
 hardwaremx.com##CENTER
 hardwarezone.com.sg###sponsored-links
 hardzone.es##IMG[src*="ads/"]
@@ -3659,6 +3692,7 @@ hometheaterreview.com###ad-bucket
 hometheatershack.com##IMG[width="728"][height="90"]
 hometheatershack.com##TABLE[width="900"][cellspacing="5"][cellpadding="10"]
 hongkiat.com###sqad-container
+hotfrog.es##.page-banner
 hothardware.com##.TowerAds
 howtoforge.com##[id^="ad"]
 hoy.com.ec###pop-up
@@ -3794,6 +3828,8 @@ jose.gs##.footerbanner728x90
 jose.gs##.sidebarbanner300x250
 jose.gs##.sidebarbanner300x600
 jose.gs##[style^="display:block;margin:0 auto;"]
+jotdown.es##.featured_cat
+jotdown.es##[href*="planetadelibros.com/"]
 jotdown.es##EMBED[src="http://cdnx.tribalfusion.com/media/common/flash/frame3.swf"]
 jotdown.es##IMG[width="1016"][height="85"]
 jotdown.es##IMG[width="300"][height="250"]
@@ -4150,8 +4186,12 @@ mocosoft.com##IMG[width="488"][height="350"]
 mocosoft.com##TABLE
 mocosoft.com##TD
 mocosoftx.com##TABLE[width="688"]
+monarquiaconfidencial.com###ad
+monarquiaconfidencial.com##.md-advertisement
 money.cnn.com###sh_search_box
 money.cnn.com##[id*="Sponsor"]
+monoandstereo.com###sidebar-left-1
+monoandstereo.com##.fauxcolumn-inner
 monova.org##[id^="ad"]
 morningstar.com###AdSkyscraper
 morningstar.com###HP_adUnits
@@ -4333,8 +4373,11 @@ online.barrons.com##.adSummary.boxAd
 online.wsj.com##.seatGeekWidget
 openiddirectory.com##.promotable
 opensubtitles.org###mediaget_box
+opensubtitles.org###scrubbuad
+opensubtitles.org###WarningCodecBanner
 opensubtitles.org##TR[style$="background-color:#F9DFF4;"]
 opensubtitles.org##TR[style$="background-color:#F9F1DF;"]
+opensubtitles.org##TR[style$="background-color:#FAEBEB;"]
 operaciontriunfo.com###banner
 oroyfinanzas.com##[class*="banner"]
 oroyfinanzas.com##A[href$="gmrefcode=oroyfinanzas"]
@@ -4501,7 +4544,9 @@ reforma.com##TABLE[width="960"][height="80"]
 reforma.com##TD[width="193"][height="248"]
 regio7.cat###iberpestanas
 regio7.cat###MensajeCompruebaCookieSite
+religionconfidencial.com###ad
 religionconfidencial.com###topbar
+religionconfidencial.com##.md-advertisement
 religionenlibertad.com##TABLE[width="990"][bgcolor="#ffffff"]
 relink.us##.ad_right
 relink.us##.content
@@ -4564,6 +4609,7 @@ safehaven.com##.advertisment
 safehaven.com##[class*="banner"]
 salamanca24horas.com##.banner_carro
 salir.com###publi-top
+salir.com###publi-top-salir
 salir.com##.robaPagina
 salonav.com##.ya-partner__ads + * > *
 salonav.com##[width="240"]
@@ -4581,6 +4627,7 @@ search.chron.com##.sponsored_ads
 search.conduit.com##.SideLinks
 search.conduit.com##.SponsoredLinks
 search.forbes.com##[id$="Sponsor"]
+search.iminent.com###result_zone_top
 search.nwsource.com###infospace
 search.nwsource.com###top_ads
 search.snapdo.com###AfloatingD
@@ -4761,7 +4808,10 @@ terraeantiqvae.com##.xg_module_body.xg_user_generated
 terranoticias.terra.es##TD[width="312"][height="256"]
 testdevelocidad.es###ad-right
 testdevelocidad.es##[id^="adl"]
+testseek.co.uk###myModal
 testseek.co.uk##.banner_728x90
+testseek.co.uk##.reveal-modal-bg
+testseek.co.uk##[class^="banner"]
 testseek.co.uk##TD[width="355"]
 testseek.com##.banner_728x90
 tforumhifi.com###login_popup
@@ -4818,6 +4868,7 @@ tomadivx.org###DESCARGAslidein
 tomadivx.org###layer
 tomshardware.com##.advertRight
 tomshardware.de###topPromo
+tonepublications.com###advertising
 topdiversion.com##FORM[name="BlinkoRequest"]
 topics.nytimes.com###SFMiddle
 topix.com###hat_ad_leaderboard
@@ -4840,6 +4891,7 @@ trustedreviews.com###afs
 trustedreviews.com###top-sky
 trustedreviews.com##[id^="afc"]
 tube8.com##.ad-wrapper
+tubemonsoon.com###player_ad
 tucows.com##.sponsored_box
 tuenti.com###ccTazad *
 tuenti.com###js-cat-taz-spnsrs
@@ -4976,6 +5028,7 @@ xvideos.com###ads
 xvideos.com##TABLE[width="185"][height="1040"]
 xvideos.com##TD[width="180"]:last-child
 yaske.net##.anunciochicas
+ynet.co.il##.promo_lightbox
 ynetnews.com###ads\.primium
 yopi.de##.ad_spl
 youjizz.com###right-ad
@@ -5000,6 +5053,7 @@ zeit.de##.innerad
 zerohedge.com###block-block-11
 zerohedge.com###block-block-17
 zerohedge.com###similar-box
+zie.nl##.adblock_h
 zimbio.com##.embeddedAd
 zippyshare.com##.center_reklamy
 zonatuning.com##[style^="width:336px;"]
