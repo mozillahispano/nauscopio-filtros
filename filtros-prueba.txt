@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 !  FILTROS NAUSCOPICOS by maty (Spanish+English+Others ad-blocking subscription)
-!    Last modified: Oct 12, 2013 18:30 UTC
+!    Last modified: Oct 20, 2013 17:00 UTC
 !    This list expires after 5 days
 !    add the Nauscopio filter for even more: http://nauscopio.wordpress.com/category/filtrado/
 !    License: http://creativecommons.org/licenses/by-nc-sa/3.0/es/
@@ -422,6 +422,7 @@ xtcore
 ||ads.yldmgrimg.net/
 ||ads.zillow.com^
 ||ads4.fxdepo.com/
+||adsafeprotected.com/
 ||adscale.de/
 ||adsdelivery.envialo.*/
 ||adsence.sogou.com^
@@ -455,6 +456,7 @@ xtcore
 ||advertserve.com/
 ||adw.sapo.pt/
 ||adworks.com^
+||adxmediaone.com/
 ||adzerk.net/
 ||afcyhf.com^
 ||afdads.com/
@@ -472,6 +474,7 @@ xtcore
 ||alertadigital.com/*/banners/
 ||alertpay.com/banners/
 ||alfasoni.com/*/*banner/
+||alianzis.com/
 ||alianzo.com/images_bloggersnet/*120x120
 ||aljazeera.com/*/*/*/ads
 ||alleyinsider.com/*/banner
@@ -491,6 +494,7 @@ xtcore
 ||anajs.*.com/
 ||anajs.*.es/
 ||analitico.es/*/wbadvert/
+||analytics.edgekey.net/
 ||anapixel.*.*/banner.gif
 ||anapixel.*.es/
 ||andalucianoticias.es/*/*/*/*/*/banner
@@ -598,6 +602,7 @@ xtcore
 ||bestbuy.com/*/*/*/*/images/*/admodel/
 ||best-offers2u.com/
 ||bestprizedraw.com/
+||betrad.com/
 ||beweb.com^
 ||bidvertiser.com/
 ||bigbadlondon.com/*/*/*/Banner
@@ -735,9 +740,11 @@ xtcore
 ||clavedigital.com/*/publicidades/
 ||clavedigital.com/Especiales/
 ||clickpoint.com/
+||clicktale.net/
 ||clixsense.com/
 ||clixsense.com/*$popup
 ||clkads.com/
+||clkrev.com/
 ||cloudfront.net/ads/
 ||cmjornal.xl.pt/pub/
 ||cmpnet.com/ads/
@@ -778,7 +785,6 @@ xtcore
 ||cpmrocket.com/
 ||cpxinteractive.com^
 ||crazyocio.com/
-||creative.m2pub.com/matomy/scripts/direct/*$popup
 ||criteo.com/delivery/
 ||criteriaclub.com/publi/
 ||criticadigital.*/*/banners/
@@ -999,6 +1005,7 @@ xtcore
 ||elmundotoday.com/*ads/
 ||elnortedecastilla.es/js/publicidad.js
 ||eloncedigital.com.ar/publicidad/
+||elopinador.es/*/banners/
 ||elotrolado.net/*/*/*/banner
 ||elpais.com/est.pl?id
 ||elpais.com/im/1px
@@ -1049,6 +1056,8 @@ xtcore
 ||epimg.net/*/bwin
 ||epimg.net/externos/img/120x180*
 ||epimg.net/js/comun/avisopc.js
+||epimg.net/tematicos/*/modulo_clasificados/
+||epimg.net/tematicos/*/promociones_modulo/
 ||eresmas.com/banners/
 ||erovinmo.com/
 ||escuchamusicas.com/banner
@@ -1203,7 +1212,7 @@ xtcore
 ||ghcdn.com/*/*/*/*banner*/
 ||giganews.com/banners/
 ||gigtizer.info/
-||gigya.com/
+||ginyas.com/*/statpx
 ||globalmuperu.com/banner
 ||globalpost.com/*/*/*/*/*/partners/
 ||glumbouploads.com/banners/glumbouploads-banners
@@ -1242,10 +1251,12 @@ xtcore
 ||headfonics.com/sponsorlogo/
 ||hearstmags.com/*/*/ads/
 ||helpmycash.com/share-widgets/
+||helpmycash.net/*/logo-
 ||hiboox.*/*/*/*/pubs/
 ||hi-fi.ru/*/RichBanner
 ||hifichoice.co.uk/*/*/*/banners/
 ||hi-files.com/images/baneri/
+||hifilive.es/*/*-banners/
 ||hifilive.es/wp-content/*/*/banner
 ||hifipig.com/*/*banner/
 ||hifitest.de/*/*_MediumRectangle
@@ -1382,6 +1393,7 @@ xtcore
 ||juegos.com/vda/iframe.html
 ||juegosonce.com/*/*/pub/
 ||juiceadv.com/banner_
+||juicyads.com/
 ||justin.tv/ad/
 ||jxliu.com/
 ||kalooga.com/
@@ -1425,6 +1437,7 @@ xtcore
 ||lamanyana.es/web/imatges/publicitat
 ||lamarea.com/wp-content/*/*/*/anuncios_
 ||lamarea.com/wp-content/*/*/*/banner
+||lamarea.com/wp-content/*/*_banner
 ||lanacion.cl/prontus_ads3/
 ||lanzarotedigital.com/_banners/
 ||laopiniondemalaga.es/ads/
@@ -1514,6 +1527,7 @@ xtcore
 ||liquidweb.com/banners/
 ||listin.com.do/splash/
 ||live.sekindo.com/live/*$popup
+||livejasmin.com/pu/$popup
 ||livescience.com/*/ads/
 ||llamar-gratis.es/publicidad/
 ||lne.es/*/publicidad/
@@ -1660,6 +1674,7 @@ xtcore
 ||mytemplatestorage.com^
 ||mythosom.com/banners/
 ||mytimelines.net/
+||n*ad.doubleclick.net/adj/
 ||napsix.com/
 ||narrowad.com^
 ||naukas.com/*/images/dinahosting
@@ -1676,6 +1691,7 @@ xtcore
 ||netmng.com/
 ||netplayaffiliates.com/
 ||netshelter.net^
+||netuy.net/banner_
 ||newpct.com/*/*300x250
 ||newpct.com/banners.inc/columna_derecha.section/*
 ||newpct.com/banners.inc/ficha.section/banner_arriba
@@ -1743,7 +1759,6 @@ xtcore
 ||optimost.com/
 ||orange.es/homeoes/img/*/logo
 ||orangeads.*/
-||outbrain.com/
 ||outletfile.com/banners/
 ||overclockers.com.au/adsx/
 ||overclockersonline.net/*/sponsors/
@@ -1926,6 +1941,7 @@ xtcore
 ||redcpa.es/banners/
 ||reddit.com/*sponsor
 ||redditmedia.com/ads/
+||redintelligence.net/
 ||redkaraoke.com/*/banner
 ||redsheriff.com^
 ||regiedepub.com^
@@ -2150,6 +2166,7 @@ xtcore
 ||thisnext.com/swf/
 ||ticbeat.com/*/*/*/*/*/logo_
 ||ticbeat.com/*/*/*/*/banner-
+||tidaltv.com/admanager/
 ||tidbits.com/ads/
 ||tienda.diariodemallorca.es/
 ||tienda.eldiarioexterior.com/
@@ -2191,7 +2208,6 @@ xtcore
 ||trabajos.com/usuarios-boletin/
 ||track.adbooth.net^
 ||track.e7r.com.br/
-||tracker.alianzis.com/
 ||tracker.financialcontent.com/
 ||tracker.issuu.com/
 ||tradetracker.net/
@@ -2234,6 +2250,7 @@ xtcore
 ||utorrent.com/ad.php
 ||utorrent.com/bntop.html
 ||valenciaplaza.com/*/*/archivo8*.swf
+||valueclickmedia.com/*/adv/
 ||vavel.com/vavel/principal.html
 ||vegasred.com/promo
 ||veocine.es/iframespubli/
@@ -2572,6 +2589,7 @@ audio.de###iqdSuperbanner
 audio.tutsplus.com##.bundle-link
 audio.tutsplus.com##.leader_board
 audiocircle.com##TD[style="width:168px;"]
+audiofi.net##.adsbygoogle
 audio-head.com##[id^="ws_widget__ad_"]
 audioholics.com###vbseo_vhtml_0
 audioholics.com##[style$="height:90px;"]
@@ -2774,6 +2792,10 @@ carrieserena.com###bannersuperior
 carstereo.com##IMG[width="728"][height="90"]
 cartelera10.com##[class^="sspub"]
 casinodeeuropa.es###sidebar_top
+castalba.tv###ad_footer_s
+castalba.tv###ad_overlay
+castalba.tv###ad_overlay_content
+castalba.tv##.ads
 catalunyareligio.cat###var1_bottom
 catradio.cat###publiPath
 catradio.cat##[class$="publi"]
@@ -3210,15 +3232,21 @@ elnuevodiario.com.ni##.ads2
 elnuevoherald.com###dealsaver_td
 elnuevoherald.com###leaderboard
 elnuevoherald.com###marketplace
+elopinador.es##[class^="Publicidad_"]
 elpais.com###cdv_img
+elpais.com###comerciales
 elpais.com###wrap-bloque-limited
 elpais.com##.banner_top
+elpais.com##.caja.caja_clasificados
 elpais.com##.caja.especial_publi
+elpais.com##.clasificados
 elpais.com##.envoltorio_publi.estirar
 elpais.com##.mod-promociones
 elpais.com##.patrocino_header_portada
 elpais.com##.tienda
 elpais.com##[class^="publi"]
+elpais.com##IMG[width="400"][height="133"]
+elpais.com##IMG[width="400"][height="150"]
 elpais.com##UL[class^="pr"]
 elperiodicdandorra.ad###caixapubli
 elperiodicdandorra.com##[class*="banner"]
@@ -3389,6 +3417,8 @@ europapress.es##IMG[id^="patrocinadores"]
 europapress.es##IMG[id^="sprtm"]
 europapress.es##IMG[width="300"][height="60"]
 europasur.es##.megabanner
+eventhubs.com###topleaderboard
+eventhubs.com##[id^="google_ads_"]
 expansion.com###modulo_fds
 expansion.com##.bloque-cookies
 expansion.com##.master_finanzas
@@ -3892,6 +3922,8 @@ lainformacion.com##.megabanner
 lainformacion.com##.robapaginas
 lainformacion.com##[style^="margin: 5px auto 10px;"]
 lainformacion.com##EMBED[width="800"][height="600"]
+lamarea.com###cookie-law-info-bar
+lamarea.com##.banner
 lanacion.cl###ads_top
 lanacion.cl###art_ads
 lanacion.cl##[class^="advs"]
@@ -4112,6 +4144,7 @@ maxdeportvcanal--6.blogspot.com###adsdiv
 maxdeportvcanal--6.blogspot.com##TD[valign="top"][align="center"]
 mediabistro.com###featuredJobs
 mediabistro.com##[id$="Ad"]
+mediafire.com##.ad
 mediafire.com##[class*="banner"]
 mediaweek.co.uk###googleAd
 mediaweek.co.uk###headerPromo
@@ -4282,6 +4315,7 @@ negrowhite.net##.sidebarads
 netload.in##[style="height: 100px;"]
 neural.it##IMG[width="180"][height="180"]
 newpct.com###banner_header
+newpct.com###contacto_sugerencias
 newpct.com###content-trailer
 newpct.com###im_popupFixed
 newpct.com###Layer1
@@ -4550,6 +4584,7 @@ religionconfidencial.com##.md-advertisement
 religionenlibertad.com##TABLE[width="990"][bgcolor="#ffffff"]
 relink.us##.ad_right
 relink.us##.content
+relink.us##.view_middle_block
 remusic.it##.zona_header_banner_div
 remusic.it##[id^="sasasa"]
 reporterosjerez.es###mpu_banner
@@ -4558,6 +4593,8 @@ reproductormp3.net##.bbc_img
 reproductormp3.net##.tp_toppanel
 repubblica.it###OAS-titolo-vetrina
 repubblica.it##.rep-shopping
+republica.com.uy##.widget_adrotate_widgets
+republica.com.uy##IMG[width="166px"]
 resultadosdeloteria.es###buscaNumeros
 retrevo.com##.leaderAd
 reusdigital.cat###banners_header
@@ -4822,6 +4859,7 @@ theawl.com##[id^="ad"]
 thedaily.com##.side_ad
 thedailybeast.com###nwsub_container
 thedailydealfinder.net##.focused
+thedailyshow.com###ad_300x250
 theecologist.org##[id*="banner"]
 theglobeandmail.com##.widget_ad.boxr
 theglobeandmail.com##.widget_ad.halfpage
@@ -4982,13 +5020,7 @@ vozbcn.com###interstitial-banner
 vozbcn.com##.banner
 vozbcn.com##.banner_header
 vozbcn.com##[id^="adrotate_"]
-vozpopuli.com###contenedorPublicidadHorizontal
 vozpopuli.com###registroImgMap
-vozpopuli.com###zona-publicidad-temas-del-dia
-vozpopuli.com##.contenedorPublicidadHorizontal
-vozpopuli.com##.publiPadre
-vozpopuli.com##.publiPadreRm
-vozpopuli.com##.region.region-content_top
 vuelosbaratos.es##TD[width="180"][align="right"]
 washingtonpost.com###textlinkWrapper
 washingtonpost.com##.ads
@@ -5027,9 +5059,11 @@ xtube.com##[style$="width:1000px; height: 150px;"]
 xvideos.com###ads
 xvideos.com##TABLE[width="185"][height="1040"]
 xvideos.com##TD[width="180"]:last-child
+xxxmsntube.com###embed-overlay
 yaske.net##.anunciochicas
 ynet.co.il##.promo_lightbox
 ynetnews.com###ads\.primium
+yobt.com###closeAndPlay
 yopi.de##.ad_spl
 youjizz.com###right-ad
 youporn.com###youpornplus
