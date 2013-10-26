@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 !  FILTROS NAUSCOPICOS by maty (Spanish+English+Others ad-blocking subscription)
-!    Last modified: Oct 20, 2013 17:00 UTC
+!    Last modified: Oct 26, 2013 18:00 UTC
 !    This list expires after 5 days
 !    add the Nauscopio filter for even more: http://nauscopio.wordpress.com/category/filtrado/
 !    License: http://creativecommons.org/licenses/by-nc-sa/3.0/es/
@@ -310,6 +310,7 @@ xtcore
 ||ad-emea.doubleclick.net/
 ||adexcite.com/ads/
 ||adf.ly/*/banners/
+||adf.ly/1market.php
 ||adf.ly/index/abdetected
 ||adfarm*.adition.com/
 ||adfarm.*.com/
@@ -1290,6 +1291,7 @@ xtcore
 ||hoy.es/*/*/*/publicidad/
 ||hoyvino.com/banners/
 ||hstpnetwork.com/ads/
+||hsx.com/*/ad/
 ||htguide.com/*/bnr/
 ||html5.previewnetworks.com^
 ||html-links.com/banners/
@@ -1309,6 +1311,7 @@ xtcore
 ||idealista.com/*/banners/
 ||idealista.com/afr.php
 ||idealista.com/news/out/widget_news
+||idealista.com/news/widget/get/
 ||idealista.com/partners/*/buscador.html
 ||idealista.com/publicidad/
 ||ideas4allstatic.com/*/*/*/banner
@@ -1385,7 +1388,6 @@ xtcore
 ||jetcharters.com/banners/
 ||jmnoticias.com/*/*/*publicidad/
 ||jose.gs/*/*/*/*/banner
-||jotdown.es/*/*1024
 ||jotdown.es/*/altereco
 ||jotdown.es/*/hiper
 ||jotdown.es/*/sb300/
@@ -1827,6 +1829,7 @@ xtcore
 ||politraductor.com/publi2.swf
 ||pop6.com/banners/
 ||popads.net/
+||popads.net/$popup
 ||popadscdn.net^
 ||popsci.com/files/iframes/
 ||porandalucialibre.es/*/logotipo/publi
@@ -2294,6 +2297,7 @@ xtcore
 ||wiisos.com/*/ads/
 ||wiisos.com/images/banners/
 ||williamhill.com/promo
+||williamhill.es/promo/$popup
 ||winwin.co.il/AttractiveAds_Media/*
 ||wired.com/images/*/*/*/*webAd
 ||wolframcdn.com/images/ads/
@@ -3731,6 +3735,7 @@ hoy.es##.modulocanales
 hoy.es##.oferplan_megabanner_caja
 hoycinema.com##.ad.aside
 hoycinema.com##[style*="width:390px;height:300px;"]
+hsx.com###ad-filmgo
 htcmania.com###topbar
 htcmania.com##TD[width="670"]
 huffingtonpost.co.uk##[id^="ad_"]
@@ -3862,6 +3867,7 @@ jotdown.es##.featured_cat
 jotdown.es##[href*="planetadelibros.com/"]
 jotdown.es##EMBED[src="http://cdnx.tribalfusion.com/media/common/flash/frame3.swf"]
 jotdown.es##IMG[width="1016"][height="85"]
+jotdown.es##IMG[width="1024"][height="90"]
 jotdown.es##IMG[width="300"][height="250"]
 jotdown.es##IMG[width="300"][height="300"]
 journalhub.com##TD[width="250"]
@@ -3971,6 +3977,7 @@ latimes.com##TABLE[class="cubeAd"]
 latiza.es##TD[id^="tdPublicidad"]
 latribuna.hn##.featuredtop2
 lavanguardia.com###divCookiesBox
+lavanguardia.com###orangetvlink
 lavanguardia.com##.lv24hpublicidad
 lavanguardia.com##.partner01
 lavanguardia.com##.suscriptorpromo
@@ -4276,7 +4283,6 @@ mundodvd.com###navbar_notice_5
 mundodvd.com###publi728x90_superior
 mundodvd.com##.guestwarn
 mundodvd.com##.navbar_notice
-mundodvd.com##.restore
 mundodvd.com##[style^="WIDTH: 300px; FLOAT: right; HEIGHT: 250px;"]
 mundohi-fi.com###topbanner
 mundohi-fi.com##.textwidget IMG
@@ -4424,6 +4430,7 @@ panenka.org###divAdLeft
 panenka.org###divAdRight
 panenka.org###header_wrapper
 paper.li##.paper-ad
+paralacinta.com##.adsbygoogle
 paris-normandie.fr##EMBED[height="90"][width="728"]
 parrillaweb.es###header
 parrillaweb.es##.sponsor
@@ -4537,6 +4544,7 @@ quiosc.elpunt.cat###publicitatv1
 quiosc.elpunt.cat##TABLE.publicitath1
 quo.es##[id^="publi"]
 quo.es##IMG[title$="Destinia.com"]
+quo.es##IMG[width="300"][height="300"]
 rac1.org##EMBED[height="150"]
 racocatala.cat##.ads
 racocatala.cat##[class$="-ads"]
@@ -4731,6 +4739,7 @@ softcatala.org##.boxgoogle_publi
 softcatala.org##[id^="publi"]
 softonic.com##[class*="banner"]
 softonic.com##[id^="ad"]
+softpedia.com##IMG[width="300"][height="250"]
 softpedia.com##IMG[width="600"][height="90"]
 softpedia.com##IMG[width="728"][height="90"]
 softwarelibre.gob.ve###homenaje
@@ -4963,6 +4972,7 @@ ultimahora.com##TD[height="60"]
 ultimahora.es##.banner_top
 ultradownloads.com.br###barraLow
 ultradownloads.com.br##.ofertas
+unience.com###cookieMessage
 unience.com##.seals
 universetoday.com##.banner
 universia.es##.footer
